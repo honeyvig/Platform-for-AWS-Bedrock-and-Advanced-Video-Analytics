@@ -1,0 +1,1 @@
+# Platform-for-AWS-Bedrock-and-Advanced-Video-Analytics
